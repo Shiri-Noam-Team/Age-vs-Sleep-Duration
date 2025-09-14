@@ -1,7 +1,7 @@
 # Age vs. Sleep Duration – Statistical Analysis
 
 This repository contains two statistical analyses exploring the relationship between **age** and **sleep duration**.  
-The analyses are based on the [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset).
+The analyses are based on the [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) from kaggle.
 
 This project was completed as part of the course *Principles & Applications in Stat Analysis*, focusing on both descriptive and inferential methods.
 
