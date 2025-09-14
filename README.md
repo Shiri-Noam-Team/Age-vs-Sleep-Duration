@@ -6,10 +6,10 @@ The analyses are based on the [Sleep Health and Lifestyle Dataset](https://www.k
 This project was completed as part of the course *Principles & Applications in Stat Analysis*, focusing on both descriptive and inferential methods.
 
 ## Files
-- **Descriptive Statistics - age vs. sleep duration.pdf** (11/2024)  
+- **Descriptive Statistics - age vs. sleep duration.pdf** (11/2024) - View [Here]()  
   Exploratory analysis including histograms, summary statistics, scatter plots, Pearson correlation, and a linear regression model.
 
-- **Inferential Statistics - age vs. sleep duration.pdf** (01/2025)  
+- **Inferential Statistics - age vs. sleep duration.pdf** (01/2025) - View [Here](https://github.com/Shiri-Noam-Team/Age-vs-Sleep-Duration/blob/main/Inferential%20Statistics%20-%20age%20vs.%20sleep%20duration.pdf).  
   Inferential analysis including parameter estimation, distribution fitting, confidence intervals, and hypothesis testing.
 
 ## Tools
